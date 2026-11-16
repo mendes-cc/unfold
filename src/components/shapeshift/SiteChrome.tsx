@@ -4,7 +4,7 @@ import { LogoMark } from "./Logo";
 const REPO = "mendes-cc/unfold";
 // unfold is a fork of Shapeshift (MIT). Keep this credit.
 const ORIGINAL_REPO = "anishfn/shapeshift";
-const AUTHOR_URL = "https://x.com/thatCarlosM";
+const AUTHOR_URL = "https://x.com/aicmosh";
 
 /** Small mono links pinned to the bottom corners. */
 const FOOTER_LINK =
